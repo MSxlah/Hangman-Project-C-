@@ -1,0 +1,13 @@
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.Form3.resources
+C:\Users\msala\OneDrive\Documents\C#\Hangman\Hangman\obj\Debug\Hangman.Form2.resources
